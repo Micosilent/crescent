@@ -2,8 +2,8 @@ let inventories = {
   id: "uuid",
   name: "name",
   location: "location",
-  "date-due": "ddmmyyyy",
-  completed: false,
+  dueDate: "ddmmyyyy",
+  isComplete: false,
   assignedTo: "userId ",
   items: [
     {
