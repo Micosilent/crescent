@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Crescent Inventory",
+  "name": "An Open Source Inventory taking tool",
   "icons": [
     {
       "src": "favicon.ico",
